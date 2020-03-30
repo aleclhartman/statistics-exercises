@@ -3,3 +3,4 @@
 __pycache__/
 *.csv
 env.py
+stats_quiz.ipynb
